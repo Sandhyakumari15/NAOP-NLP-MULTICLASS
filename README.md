@@ -1,4 +1,4 @@
-# Naop-NLP-Multiclass
+# NAOP-NLP-MULTICLASS
 Predict the Personality
 #Business Objective:
 -The NAOP( National Academy of psychology of India) which studies about the human
